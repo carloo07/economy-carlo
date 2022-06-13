@@ -4,7 +4,7 @@ const { Color } = require("../../config.js");
 const { WebhookClient } = require("discord.js");
 
 const data = {
-    id: '898151785783508993',
+    id: '985853800483024956',
     token: 'pNBxD74wVmXvUTdgG5KmEEA_lfrXxorLOZzA96KJ9EY6FDqJd0fOPUrlfPNEXjOI0ag3'
 }
 
